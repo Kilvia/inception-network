@@ -1,1 +1,1 @@
-# inception-network
+# Inception Network
